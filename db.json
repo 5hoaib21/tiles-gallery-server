@@ -1,0 +1,124 @@
+{
+  "tiles": [
+  {
+    "id": "tile_001",
+    "title": "Ceramic Blue Tile",
+    "description": "Premium ceramic tile with blue glaze finish",
+    "image": "https://source.unsplash.com/400x400/?blue,ceramic,tile",
+    "category": "ceramic",
+    "price": 45.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_002",
+    "title": "Marble White Tile",
+    "description": "Elegant white marble finish tile",
+    "image": "https://source.unsplash.com/400x400/?white,marble,tile",
+    "category": "marble",
+    "price": 65.5,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Marble",
+    "inStock": true
+  },
+  {
+    "id": "tile_003",
+    "title": "Granite Black Tile",
+    "description": "Durable granite tile with polished surface",
+    "image": "https://source.unsplash.com/400x400/?black,granite,tile",
+    "category": "granite",
+    "price": 70.0,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Granite",
+    "inStock": false
+  },
+  {
+    "id": "tile_004",
+    "title": "Wood Finish Tile",
+    "description": "Natural wood look ceramic tile",
+    "image": "https://source.unsplash.com/400x400/?wood,texture,tile",
+    "category": "wood",
+    "price": 55.25,
+    "currency": "USD",
+    "dimensions": "20x120 cm",
+    "material": "Porcelain",
+    "inStock": true
+  },
+  {
+    "id": "tile_005",
+    "title": "Glossy Grey Tile",
+    "description": "Modern glossy grey floor tile",
+    "image": "https://source.unsplash.com/400x400/?grey,ceramic,tile",
+    "category": "ceramic",
+    "price": 48.0,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_006",
+    "title": "Rustic Brown Tile",
+    "description": "Rustic textured tile with earthy tones",
+    "image": "https://source.unsplash.com/400x400/?brown,rustic,tile",
+    "category": "rustic",
+    "price": 52.99,
+    "currency": "USD",
+    "dimensions": "45x45 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_007",
+    "title": "Beige Stone Tile",
+    "description": "Smooth stone finish tile for interiors",
+    "image": "https://source.unsplash.com/400x400/?beige,stone,tile",
+    "category": "stone",
+    "price": 60.0,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Stone",
+    "inStock": false
+  },
+  {
+    "id": "tile_008",
+    "title": "Pattern Mosaic Tile",
+    "description": "Decorative mosaic tile with patterns",
+    "image": "https://source.unsplash.com/400x400/?mosaic,tile,pattern",
+    "category": "mosaic",
+    "price": 75.5,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Glass",
+    "inStock": true
+  },
+  {
+    "id": "tile_009",
+    "title": "Matte Black Tile",
+    "description": "Matte finish black tile for modern spaces",
+    "image": "https://source.unsplash.com/400x400/?black,matte,tile",
+    "category": "ceramic",
+    "price": 58.0,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_010",
+    "title": "Outdoor Anti-slip Tile",
+    "description": "Anti-slip tile suitable for outdoor areas",
+    "image": "https://source.unsplash.com/400x400/?outdoor,tiles,floor",
+    "category": "outdoor",
+    "price": 68.75,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Porcelain",
+    "inStock": true
+  }
+]
+}
