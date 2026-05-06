@@ -1,5 +1,6 @@
 {
-  "tiles": [
+  "tiles": 
+  [
   {
     "id": "tile_001",
     "title": "Ceramic Blue Tile",
@@ -26,7 +27,7 @@
   },
   {
     "id": "tile_003",
-    "title": "Granite Black Tile",
+    "title": "Marble Black Tile",
     "description": "Durable granite tile with polished surface",
     "image": "https://source.unsplash.com/400x400/?black,granite,tile",
     "category": "granite",
@@ -119,6 +120,126 @@
     "dimensions": "60x60 cm",
     "material": "Porcelain",
     "inStock": true
+  },
+  {
+    "id": "tile_011",
+    "title": "Ivory Polished Tile",
+    "description": "Smooth ivory polished tile for luxury interiors",
+    "image": "https://source.unsplash.com/400x400/?ivory,polished,tile",
+    "category": "porcelain",
+    "price": 62.0,
+    "currency": "USD",
+    "dimensions": "70x70 cm",
+    "material": "Porcelain",
+    "inStock": true
+  },
+  {
+    "id": "tile_012",
+    "title": "Terracotta Floor Tile",
+    "description": "Warm terracotta tile for rustic environments",
+    "image": "https://source.unsplash.com/400x400/?terracotta,floor,tile",
+    "category": "clay",
+    "price": 44.5,
+    "currency": "USD",
+    "dimensions": "50x50 cm",
+    "material": "Clay",
+    "inStock": true
+  },
+  {
+    "id": "tile_013",
+    "title": "Glass Finish Wall Tile",
+    "description": "Shiny glass finish tile for modern walls",
+    "image": "https://source.unsplash.com/400x400/?glass,wall,tile",
+    "category": "glass",
+    "price": 72.0,
+    "currency": "USD",
+    "dimensions": "30x60 cm",
+    "material": "Glass",
+    "inStock": false
+  },
+  {
+    "id": "tile_014",
+    "title": "Textured Cement Tile",
+    "description": "Rough textured cement tile for industrial look",
+    "image": "https://source.unsplash.com/400x400/?cement,texture,tile",
+    "category": "cement",
+    "price": 53.75,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Cement",
+    "inStock": true
+  },
+  {
+    "id": "tile_015",
+    "title": "Hexagon Pattern Tile",
+    "description": "Stylish hexagon tile for creative spaces",
+    "image": "https://source.unsplash.com/400x400/?hexagon,tile,pattern",
+    "category": "pattern",
+    "price": 69.99,
+    "currency": "USD",
+    "dimensions": "25x25 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_016",
+    "title": "Granite Grey Outdoor Tile",
+    "description": "Strong granite tile suitable for outdoor flooring",
+    "image": "https://source.unsplash.com/400x400/?granite,outdoor,tile",
+    "category": "granite",
+    "price": 77.5,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Granite",
+    "inStock": true
+  },
+  {
+    "id": "tile_017",
+    "title": "Soft Pink Wall Tile",
+    "description": "Light pink tile for elegant interior walls",
+    "image": "https://source.unsplash.com/400x400/?pink,wall,tile",
+    "category": "ceramic",
+    "price": 46.0,
+    "currency": "USD",
+    "dimensions": "40x40 cm",
+    "material": "Ceramic",
+    "inStock": false
+  },
+  {
+    "id": "tile_018",
+    "title": "Natural Pebble Tile",
+    "description": "Pebble stone tile for natural bathroom floors",
+    "image": "https://source.unsplash.com/400x400/?pebble,stone,tile",
+    "category": "stone",
+    "price": 81.25,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Stone",
+    "inStock": true
+  },
+  {
+    "id": "tile_019",
+    "title": "Dark Brown Matte Tile",
+    "description": "Matte brown tile for warm interior design",
+    "image": "https://source.unsplash.com/400x400/?brown,matte,tile",
+    "category": "ceramic",
+    "price": 57.0,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_020",
+    "title": "Luxury Onyx Tile",
+    "description": "Premium onyx tile with glossy finish",
+    "image": "https://source.unsplash.com/400x400/?onyx,marble,tile",
+    "category": "marble",
+    "price": 120.0,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Onyx",
+    "inStock": false
   }
 ]
 }
